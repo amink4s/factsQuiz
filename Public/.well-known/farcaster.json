@@ -1,0 +1,26 @@
+{
+  "frame": {
+    "name": "WerFacts",
+    "version": "1",
+    "iconUrl": "https://facts-quiz.vercel.app/icon.png",
+    "homeUrl": "https://facts-quiz.vercel.app/",
+    "subtitle": "*facts.eth quiz",
+    "description": "a quiz about the w*facts.eth users",
+    "primaryCategory": "games",
+    "heroImageUrl": "https://facts-quiz.vercel.app/herp.png",
+    "splashImageUrl": "https://facts-quiz.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "tags": [
+      "horsefacts.eth",
+      "catfacts.eth",
+      "duckfacts.eth",
+      "dogfacts.eth",
+      "llamafacts.eth"
+    ],
+    "buttonTitle": "FAX",
+    "tagline": "a quiz about the facts users",
+    "ogTitle": "WerFacts",
+    "ogDescription": "a quiz about the facts.eth users",
+    "ogImageUrl": "https://facts-quiz.vercel.app/herp.png"
+  }
+}

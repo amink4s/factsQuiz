@@ -4,16 +4,16 @@ import { TriviaQuestion } from "../types";
 // Add or edit objects in this array to change the quiz content.
 export const QUESTIONS: TriviaQuestion[] = [
   {
-    question: "Which is the second facts?",
+    question: "Which one is the second facts?",
     options: ["Horsefacts", "cafacts", "llamafacts", "Sloths"],
     correctAnswerIndex: 2,
     funFact: "Horsfacts was the original facts and llamafacts was the second one!"
   },
   {
-    question: "which facts has gifted the most waifus?",
+    question: "Which facts has gifted the most waifus?",
     options: ["Horsfacts", "dogfacts", "duckfatcs", "catfacts"],
-    correctAnswerIndex: 2,
-    funFact: "Their fur is actually transparent and hollow, reflecting light to look white."
+    correctAnswerIndex: 0,
+    funFact: "Horsfacts is #1 in this leaderboard followed by dogfacts."
   },
   {
     question: "Which fruit floats in water?",
